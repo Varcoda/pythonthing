@@ -2,6 +2,7 @@
 def add3():
 	n = input("> ")
 	return n+3
+
 #results
 result = add3()
 while result < 100:
